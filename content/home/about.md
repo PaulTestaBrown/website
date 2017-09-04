@@ -12,7 +12,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Political Behavior,"
+    "Political Behavior",
     "Race and Ethnicity",
     "Criminal Justice",
     "Political Methodology"
