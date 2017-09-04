@@ -1,5 +1,3 @@
-
-
 baseurl = "https://paultesta.github.io/"  # End your URL with a `/` trailing slash.
 title = "Paul Testa"
 copyright = "&copy; 2017 Paul Testa"
@@ -21,9 +19,9 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Paul Testa"
+  role = "Assisant Professor of Political Science"
+  organization = "Brown University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "headshot_git.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
