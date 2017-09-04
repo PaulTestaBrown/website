@@ -12,9 +12,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Political Behavior,"
+    "Race and Ethnicity",
+    "Criminal Justice",
+    "Political Methodology"
   ]
 
 # List your qualifications (such as academic degrees).
