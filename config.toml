@@ -2,7 +2,7 @@
 baseurl = "https://paultesta.github.io/"  # End your URL with a `/` trailing slash.
 title = "Paul Testa"
 copyright = "&copy; 2016 Paul Testa"
-=======
+
 baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
 title = "Academic"
 copyright = "&copy; 2017 Paul Testa"
@@ -16,7 +16,7 @@ disqusShortname = "Paul"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-52980267-1"
-=======
+
 
 
 # Default language to use (if you setup multilingual support)
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
   math = true
-=======
+
 
 
   # Highlight.js options
@@ -138,7 +138,7 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:paul_testa@brown.edu"
-=======
+
 
 
   [[params.social]]
@@ -146,20 +146,20 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
 
     link = "//twitter.com/ProfPaulTesta"
-=======
+
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=zSO1NRgAAAAJ&hl=en&oi=ao"
-=======
+
 
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/PaulTestaBrown"
-=======
+
 
 
 # Navigation Links
