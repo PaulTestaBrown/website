@@ -13,7 +13,6 @@ weight = 1
 [interests]
   interests = [
     "Political Behavior",
-    "Race and Ethnicity",
     "Criminal Justice",
     "Political Methodology"
   ]
