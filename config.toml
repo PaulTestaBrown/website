@@ -1,4 +1,4 @@
-baseurl = "https://paultesta.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "https://paultestabrown.github.io/"  # End your URL with a `/` trailing slash.
 title = "Paul Testa"
 copyright = "&copy; 2017 Paul Testa"
 theme = "academic"
@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "Brown University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "img/headshot_git.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "headshot_git.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "paul_testa@brown.edu"
   address = "332 Blistein House, Brown University, Providence RI, 02906, USA"
   office_hours = "Monday 3:00 to 5:00 pm or email for appointment"
