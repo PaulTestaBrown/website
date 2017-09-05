@@ -16,6 +16,6 @@ weight = 60
 
 I teach the following courses at Brown
 
-- PS 2580: Introduction to Quantitive Research Methods
-- PS 1600: Introduction to Research Methods
-- PS 1824: The Politics of Race and the Criminal Justice System
+- [PS 2580](pdf/POLS_2580_syllabus_Fall_2017.pdf): Introduction to Quantitive Research Methods
+- [PS 1600](pdf/POLS_1600_syllabus_Spring_2017.pdf): Introduction to Research Methods
+- [PS 1824](pdf/POLS_1824_syllabus_Spring_2017.pdf): The Politics of Race and the Criminal Justice System
