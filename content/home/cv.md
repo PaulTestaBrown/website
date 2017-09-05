@@ -5,17 +5,13 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Teaching"
+title = "CV"
 subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 60
+weight = 15
 
 +++
 
-I teach the following courses at Brown
-
-- PS 2580: Introduction to Quantitive Research Methods
-- PS 1600: Introduction to Research Methods
-- PS 1824: The Politics of Race and the Criminal Justice System
+My c.v. is avialable [here](pdf/TestaDietrich_APSA2017.pdf)
