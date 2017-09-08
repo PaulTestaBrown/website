@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Paul Testa"
-  role = "Assisant Professor of Political Science"
+  role = "Assistant Professor of Political Science"
   organization = "Brown University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
