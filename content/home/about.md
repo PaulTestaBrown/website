@@ -33,8 +33,5 @@ weight = 1
 
 # Biography
 
-<<<<<<< HEAD
 Paul Testa is an Assistant Professor of Political Science at Brown University. His research focuses applying principles of designed-based inference to the study of the politics of race and criminal justice system. Specifically, his work exmaines how interactions with institutions of criminal justice shape political behavior and how citizens more broadly form opinions about what is just and fair. He teaches courses in applied quantitative research at the graduate (POLS 2580) and undergraduate level (POLS 1600). He is also a senior social scientist with !(The Lab @ DC)[http://thelab.dc.gov/] where he helps integrate insights from behavioral science to the design, implementation, and evaluation of public policies in the District of Columbia.
-=======
-Paul Testa is an Assistant Professor of Political Science at Brown University. His research focuses on the politics of race and criminal justice system. He teaches courses in applied quantitative research at the graduate (POLS 2580) and undergraduate level (POLS 1600). He is also a senior social scientist with The Lab @ DC.
->>>>>>> 0eec934e7843132ffcd81959c9d127cb30003491
+
